@@ -64,6 +64,10 @@ PIN DIAGRAM FOR ATMEGA 328
 
 
 # PROGRAM 
+
+Program developed by : Shrruthilaya G
+
+Register number : 212221230097
 ~~~
 int ledpin=7;
 int pushpin=2;
